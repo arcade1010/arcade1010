@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evan Wurster</h1>
 <h3 align="center">Senior CS student at UNC Charlotte</h3>
 
-- 🔭 I’m currently working on [student-manager](https://github.com/arcade1010/student-manager.git)
+- 🔭 I’m currently working on [tutor-finder](https://github.com/Nova-software-development-project/Tutor-Finder.git)
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [student-manager](https://github.com/arcade1010/student-manager.git)
 
@@ -11,17 +11,17 @@
 
 - 📝 Visit my website at [https://arcade1010.github.io/enWurster/](https://arcade1010.github.io/enWurster/)
 
-- 💬 Ask me about **Java, Javascript, HTML, CSS**
+- 💬 Ask me about **Java or Javascript**
 
 - 📫 How to reach me **enwurster@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_rPbqdaB6-C5ls2VhWH5VevHpkeeKO06TW65IGTa6VY/edit?usp=sharing](https://docs.google.com/document/d/1_rPbqdaB6-C5ls2VhWH5VevHpkeeKO06TW65IGTa6VY/edit?usp=sharing)
+- 📄 Know about my experiences at [https://docs.google.com/document/d/1am_HVuHoWzWvohqXYqmCnpujP4Q9Z3IqbrVNtOIcWdE/edit?usp=sharing](https://docs.google.com/document/d/1am_HVuHoWzWvohqXYqmCnpujP4Q9Z3IqbrVNtOIcWdE/edit?usp=sharing)
 
 - ⚡ Fun fact **I have a black belt in Tae Kwon Do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/evanwurster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/evanwurster" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/evanwurster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/evanwurster" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
