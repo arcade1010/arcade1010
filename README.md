@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Wurster</h1>
 <h3 align="center">Senior CS student at UNC Charlotte</h3>
 
-- 🔭 I’m currently working on [tutor-finder](https://github.com/Nova-software-development-project/Tutor-Finder.git)
+- 🔭 I’m currently working on [job-tracker](https://github.com/arcade1010/job-tracker.git)
 
 - 🌱 I’m currently learning **Python**
 
