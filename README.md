@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enwurster@gmail.com**
 
-- 📄 Know about my experiences at [https://docs.google.com/document/d/1am_HVuHoWzWvohqXYqmCnpujP4Q9Z3IqbrVNtOIcWdE/edit?usp=sharing](https://docs.google.com/document/d/1am_HVuHoWzWvohqXYqmCnpujP4Q9Z3IqbrVNtOIcWdE/edit?usp=sharing)
+- 📄 Know about my experiences at [My Resume..](https://docs.google.com/document/d/1zgZukON6HDXbLxK9CzkK_kCaSSCfATGrFYxdpSWUuAU/edit?usp=sharing)
 
 - ⚡ Fun fact **I have a black belt in Tae Kwon Do**
 
