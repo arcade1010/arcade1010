@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [job-tracker](https://github.com/arcade1010/job-tracker.git)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **AWS**
 
 - 📝 Visit my website at [https://arcade1010.github.io/enWurster/](https://arcade1010.github.io/enWurster/)
 
