@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Wurster</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [job-tracker](https://github.com/arcade1010/job-tracker.git)
+- 🔭 I’m currently working as a Software Dev at **Best Impressions**
 
 - 🌱 I’m currently learning **AWS**
 
