@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evan Wurster</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working as a Software Dev at **Best Impressions**
+- 🔭 I’m currently looking for work!
 
 - 🌱 I’m currently learning **AWS**
 
-- 📝 Visit my website at [https://arcade1010.github.io/enWurster/](https://arcade1010.github.io/enWurster/)
-
 - 📫 How to reach me **enwurster@gmail.com**
-
-- 📄 Know about my experiences at [My Resume..](https://docs.google.com/document/d/1zgZukON6HDXbLxK9CzkK_kCaSSCfATGrFYxdpSWUuAU/edit?usp=sharing)
 
 - ⚡ Fun fact **I have a black belt in Tae Kwon Do**
 
