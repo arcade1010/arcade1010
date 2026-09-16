@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **enwurster@gmail.com**
 
-- 💼 Learn about my experiences: Check out my <a href="https://www.arcade1010.github.io">Portfolio Page</a>
+- 💼 Learn about my experiences: Check out my <a href="arcade1010.github.io" target="blank">Portfolio Page</a>
 
 - ⚡ Fun fact **I have a black belt in Tae Kwon Do**
 
