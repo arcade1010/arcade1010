@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Evan Wurster</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently looking for work!
+- 🔭 I’m currently looking for my next role
 
 - 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **enwurster@gmail.com**
 
-- 💼 Learn about my experiences: Check out my <a href="[https://arcade1010.github.io](https://arcade1010.github.io)" target="_blank">Portfolio Page</a>.
+- 💼 Learn about my experiences: [Portfolio Page](https://arcade1010.github.io)
 
 - ⚡ Fun fact **I have a black belt in Tae Kwon Do**
 
